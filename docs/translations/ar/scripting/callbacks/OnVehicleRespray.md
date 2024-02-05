@@ -58,8 +58,8 @@ public OnVehicleRespray(playerid, vehicleid, color1, color2)
 الأخطاء المعروفة : معاينة أحد المكونات في مرآب التعديل قد يستدعي هذا الكال باك
 
 :::
-
 ¹إدقع و رش = Pay 'n' Spray
+
 ²الغيم مود = gamemode
 
 ## الاستدعاءات او كالباكات ذات الصلة
